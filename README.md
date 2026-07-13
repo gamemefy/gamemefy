@@ -7,7 +7,7 @@ AI Consultant at EY (Seoul), building production AI systems for enterprise clien
 ### What I work on
 
 - **LLM agent systems** — LangGraph multi-step agents, prompt engineering, LLM evaluation design (pairwise win rate, agreement with real-world metrics)
-- **Search & retrieval** — hybrid vector search (Azure AI Search, HNSW tuning), relevance experimentation, ranking-logic design
+- **Search & retrieval** — hybrid vector search (Azure AI Search, HNSW & index-configuration experiments), relevance experimentation, ranking-logic design
 - **ML pipelines at scale** — Airflow/Cloud Composer, Vertex AI, BigQuery; reliability and cost engineering (~99% worker-occupancy reduction, 10+ h → 15–20 min pipeline redesign)
 - **Open-source LLMs** — Qwen/Gemma inference, CUDA llama-cpp builds, quantized-model benchmarking
 
