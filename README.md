@@ -1,3 +1,5 @@
+**English** | [한국어](README.ko.md)
+
 # Donghyeok Im (임동혁)
 
 **AI Consultant at EY (Seoul) · AI Engineer — LLM Agents, Search/RAG & Production ML Pipelines**
